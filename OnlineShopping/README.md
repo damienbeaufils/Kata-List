@@ -3,7 +3,7 @@
 _(source -> https://github.com/simonrenoult/nodejs-application-architecture)_
 
 Your task is to write an API for an online shopping site.
-It may be a web REST API or just a set a code functions / classes.
+It may be a web REST API or just a set a functions / classes.
 
 ## Domain
 
