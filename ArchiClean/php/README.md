@@ -10,13 +10,13 @@ Install dependencies by running:
 cd /path/to/the/php/directory
 composer install
 ```
-*If composer is intalled locally, you need to replace `composer` by `php composer.phar`* 
+*If composer is installed locally, you need to replace `composer` by `php composer.phar`.* 
 
 ## Tests execution
 ```
 composer test
 ```
-*Tests do not need the application to actually run on a server to work* 
+*Tests do not need the application to actually run on a server to work.* 
 
 
 ## Run the application on a local server
@@ -24,4 +24,4 @@ composer test
 ```
 composer start
 ```
-*By default, the local server listens on `localhost:9090`, you may want to change it in the `composer.json` file (under the `scripts` section)* 
+*By default, the local server listens on `localhost:9090`, you may want to change this in the `composer.json` file (under the `scripts` section).* 
